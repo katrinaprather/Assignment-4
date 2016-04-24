@@ -7,7 +7,7 @@ Use the $.ready() handler to delay your code from executing until all DOM assets
 Select the appropriate DOM elements with CSS selectors upon a user's click using the $.click() handler
 If a user clicks "Read More" on the primary column:
 
-have the text in the <p> tag slide down along with a "Read Less" link in the blog post using $.slideDown() and $.show()
+have the text in the < p > tag slide down along with a "Read Less" link in the blog post using $.slideDown() and $.show()
 hide the "Read More" link using $.hide()
 If a user clicks "Read Less" on the primary column:
 
